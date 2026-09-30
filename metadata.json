@@ -1,0 +1,6 @@
+{
+  "name": "EdgeLLM - Offline Android AI",
+  "description": "Ultra-fast on-device edge AI chatbot running quantized Llama, Gemma, and Qwen models completely offline with zero cloud dependency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
